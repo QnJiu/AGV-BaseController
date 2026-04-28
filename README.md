@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ab2eab45-4d06-4d46-9a11-d805c0fe4065
+
 AGV-BaseController: 基于 STM32 与 Python 的两轮差速底盘控制系统
 嵌入式底层控制 (STM32 端)
 * **实时任务调度**：基于 FreeRTOS 构建，将系统拆分为通信 (`CommTask`)、测速解算 (`SensorTask`) 与电机执行 (`MotorTask`) 三个独立线程，有效避免阻塞，确保控制周期精准。
