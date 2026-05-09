@@ -1,0 +1,9 @@
+<library path="agv_hardware">
+  <class name="agv_base_control/AGVHardwareInterface"
+         type="agv_base_control::AGVHardwareInterface"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      Industrial Hardware Interface for AGV Base (STM32 + FreeRTOS)
+    </description>
+  </class>
+</library>
